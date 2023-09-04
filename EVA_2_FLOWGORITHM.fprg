@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ihdzg"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-04 05:49:38 p. m."/>
+        <attribute name="created" value="aWhkemc7SUhEWkc7MjAyMy0wOS0wNDswNToxNDo0MiBwLiBtLjsyMzc2"/>
+        <attribute name="edited" value="aWhkemc7SUhEWkc7MjAyMy0wOS0wNDswNTo0OTozOCBwLiBtLjsxOzI0OTc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="mensaje" type="String" array="False" size=""/>
+            <assign variable="mensaje" expression="&quot;Hola mundo&quot;"/>
+            <output expression="mensaje" newline="True"/>
+            <output expression="&quot;Escribe tu edad&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
